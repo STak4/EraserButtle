@@ -13,4 +13,7 @@ MonoBehaviour:
   m_Name: EraserImageSet
   m_EditorClassIdentifier: 
   resourceGroupName: Eraser
-  referenceImages: []
+  referenceImages:
+  - {fileID: 11400000, guid: b06de8e412c974d5a84eabdc8f158dd9, type: 2}
+  - {fileID: 11400000, guid: 7dcdbf52490c54211a22083322a76a17, type: 2}
+  - {fileID: 11400000, guid: dd32e9466494f407bbdc3bf87e7f32f2, type: 2}
