@@ -5,7 +5,10 @@ EditorBuildSettings:
   m_ObjectHideFlags: 0
   serializedVersion: 2
   m_Scenes:
-  - enabled: 1
+  - enabled: 0
     path: Assets/EraserButtle/Scenes/Experiments/2ImageTest.unity
     guid: be077fccdb2494e679f90ed8270c035e
+  - enabled: 1
+    path: Assets/EraserButtle/Scenes/Experiments/VuforiaDetection.unity
+    guid: 79b32833186784175b290737d220216a
   m_configObjects: {}
