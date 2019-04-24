@@ -13,5 +13,5 @@ MonoBehaviour:
   m_Name: Mono
   m_EditorClassIdentifier: 
   imageName: Eraser-Mono
-  imageTexture: {fileID: 2800000, guid: 5a96bb61772da4ebd830e2ed0e08424b, type: 3}
+  imageTexture: {fileID: 2800000, guid: e14914052aa1e4c3da4de88a1299a5e6, type: 3}
   physicalSize: 0.04
