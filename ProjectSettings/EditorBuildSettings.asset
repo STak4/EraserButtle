@@ -8,7 +8,10 @@ EditorBuildSettings:
   - enabled: 0
     path: Assets/EraserButtle/Scenes/Experiments/2ImageTest.unity
     guid: be077fccdb2494e679f90ed8270c035e
-  - enabled: 1
+  - enabled: 0
     path: Assets/EraserButtle/Scenes/Experiments/VuforiaDetection.unity
     guid: 79b32833186784175b290737d220216a
+  - enabled: 1
+    path: Assets/EraserButtle/Scenes/Experiments/ARKitWithVuforiaTest.unity
+    guid: de7704470e14944929d670bdef4f9f32
   m_configObjects: {}
